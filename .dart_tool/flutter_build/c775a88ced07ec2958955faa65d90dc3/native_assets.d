@@ -1,0 +1,1 @@
+ C:\\Users\\MizzouRacing\\FlutterDataDisplay\\flutter_application_1\\.dart_tool\\flutter_build\\c775a88ced07ec2958955faa65d90dc3\\native_assets.yaml: 
